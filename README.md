@@ -1,1 +1,2 @@
-https://github.com/Chizoba8/alx-system_engineering-devops.git
+#!/bin/bash
+alx-system_engineering-devops
